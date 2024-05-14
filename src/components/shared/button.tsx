@@ -1,4 +1,4 @@
-import { Box, Text } from "utils/theme";
+import { Box, Text } from "@/utils/theme";
 
 const Button = () => {
   return (
