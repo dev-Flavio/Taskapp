@@ -5,9 +5,11 @@ import React from "react";
 
 const CategoriesScreen = () => {
   return (
-    <Box>
-      <Text>Categories</Text>
-    </Box>
+    <SafeAreaWrapper>
+      <Box>
+        <Text>Categories</Text>
+      </Box>
+    </SafeAreaWrapper>
   );
 };
 
