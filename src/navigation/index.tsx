@@ -8,8 +8,7 @@ const Navigation = () => {
   const { user, updateUser } = useUserGlobalStore();
 
   useEffect(() => {
-    updateUser({});
-    return () => {};
+    null;
   }, []);
 
   return (
