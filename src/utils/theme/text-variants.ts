@@ -20,17 +20,17 @@ export const textVariants = {
     lineHeight: 28,
     color: "gray8",
   },
-  textX1: {
+  textXl: {
     fontSize: 20,
     lineHeight: 28,
     color: "gray8",
   },
-  text2X1: {
+  text2Xl: {
     fontSize: 24,
     lineHeight: 32,
     color: "gray8",
   },
-  text3x1: {
+  text3Xl: {
     fontSize: 36,
     lineHeight: 40,
     color: "gray8",

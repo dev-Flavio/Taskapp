@@ -21,12 +21,12 @@ const theme = createTheme({
   borderRadii: {
     none: 0,
     rounded: 4,
-    "rounded-x1": 8,
-    "rounded-2x1": 10,
-    "rounded-3x1": 12,
-    "rounded-4x1": 16,
-    "rounded-5x1": 20,
-    "rounded-7x1": 28,
+    "rounded-xl": 8,
+    "rounded-2xl": 10,
+    "rounded-3xl": 12,
+    "rounded-4xl": 16,
+    "rounded-5xl": 20,
+    "rounded-7xl": 28,
   },
   textVariants,
 });
