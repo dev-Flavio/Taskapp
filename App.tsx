@@ -8,7 +8,7 @@ import { SafeAreaProvider } from "react-native-safe-area-context";
 import useUserGlobalStore from "@/store/useUserGlobalStore";
 
 export default function App() {
-  const { user, updateUser } = useUserGlobalStore();
+  
 
   return (
     <ThemeProvider theme={theme}>
